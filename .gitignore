@@ -9,8 +9,6 @@
 __pycache__/
 *.pyc
 venv/
-services/
-nerual/
 .idea/
 
 # Icon must end with two \r
